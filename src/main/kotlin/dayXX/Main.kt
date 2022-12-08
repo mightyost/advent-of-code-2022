@@ -4,7 +4,7 @@ import readInput
 
 fun main() {
 
-    val data = readInput("dayXX/data_test")
-//    val data = readInput("dayXX/data")
+    val input = readInput("dayXX/data_test")
+//    val input = readInput("dayXX/data")
 
 }
